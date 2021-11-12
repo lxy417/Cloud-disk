@@ -37,7 +37,7 @@ function graph配置后端代码和APIG触发器
 2.  网盘页面
 ![网盘页面](/result/网盘页面.jpg "Magic Gardens")
 3.  预览
-![预览](/result/预览.jpg "Magic Gardens")
+![预览](/result/预览.png "Magic Gardens")
 
 
 #### 参与贡献
