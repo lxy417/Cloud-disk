@@ -13,22 +13,32 @@
 
 #### 安装教程
 
-1.  前端
+1.  前端（如果不想编译代码，在`"./前端代码/build"`目录下有编译好的代码）
 安装依赖
 ### `yarn init`
 运行代码
 ### `yarn start`
+编译代码
+### `yarn build`
+运行编译好的代码
+### `cd ./前端代码`
+### `serve -s build`
+
 2.  后端
 function graph配置后端代码和APIG触发器
 创建桶
 **都要开启跨域**
 3.  xxxx
 
-#### 使用说明
+#### 展示
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  登录
+![登录](/result/登录.jpg "Magic Gardens")
+2.  网盘页面
+![网盘页面](/result/网盘页面.jpg "Magic Gardens")
+3.  预览
+![预览](/result/预览.jpg "Magic Gardens")
+
 
 #### 参与贡献
 
