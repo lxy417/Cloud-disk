@@ -4,13 +4,20 @@
 作业二，云盘
 
 #### 软件架构
-软件架构说明
-
+前端 react+antd实现
+后端 python3.6
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxxs
+1.  前端
+安装依赖
+### `yarn init`
+运行代码
+### `yarn start`
+2.  后端
+function graph配置后端代码和APIG触发器
+创建桶
+**都要开启跨域**
 3.  xxxx
 
 #### 使用说明
