@@ -2,7 +2,11 @@
 
 #### 介绍
 作业二，云盘
+演示地址 http://ftp6490963.host124.sanfengyun.cn
+网址密码 Admin123
 
+云盘账户密码 admin admin
+（其实只要用户名和密码相同都能登进去）
 #### 软件架构
 前端 react+antd实现
 后端 python3.6
